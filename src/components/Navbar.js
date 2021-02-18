@@ -30,8 +30,7 @@ const Navbar = () => {
         <div className='navbar-container'>
           <Link to='/' className='navbar-logo' onClick={closeMenu}>
             RM TRAVEL
-            {/* <i class='fas fa-globe-americas' /> */}
-            <i class='fab fa-glide'></i>
+            <i className='fab fa-glide'></i>
           </Link>
           <div className='menu-icon' onClick={handleClick}>
             <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
