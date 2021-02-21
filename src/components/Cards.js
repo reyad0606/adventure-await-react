@@ -103,7 +103,7 @@ const Cards = () => {
               src='images/img-8.jpg'
               text='Ride through the Sahara Desert on a guided camel tour'
               label='Adrenaline'
-              path='/sign-up'
+              path='/services'
             />
           </ul>
           <ul className='cards__items'>
@@ -117,7 +117,7 @@ const Cards = () => {
               src='images/img-4.jpg'
               text='Experience Football on Top of the Himilayan Mountains'
               label='Adventure'
-              path='/products'
+              path='/services'
             />
           </ul>
           <ul className='cards__items'>
@@ -132,13 +132,13 @@ const Cards = () => {
               src='images/img-6.jpg'
               text='Umbrella Outpouring, Pedestrian crossing'
               label='Adrenaline'
-              path='/products'
+              path='/services'
             />
             <CardItem
               src='images/img-7.jpg'
               text='Mountain under cloudy blue sky during sunset'
               label='Adventure'
-              path='/sign-up'
+              path='/services'
             />
           </ul>
         </div>
